@@ -20,3 +20,5 @@ def knightHop():
                 board[next_move[0]][next_move[1]] = 1
                 queue.append(next_move)
 knightHop()
+
+

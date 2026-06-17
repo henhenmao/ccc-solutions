@@ -1,0 +1,17 @@
+105
+14
+16
+IIIIIIIIIIIIIIII
+I......I.......I
+I......III.....I
+I........I.....I
+I........IIIIIII
+IIIIIIIIII.....I
+I.I......I.....I
+III..III.I.....I
+I....I.IIIII...I
+I....I.....III.I
+I....I.......I.I
+I....I.....III.I
+I....I.....I...I
+IIIIIIIIIIIIIIII
